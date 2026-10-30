@@ -1,0 +1,47 @@
+[
+ {
+  "date": "2026-10-30",
+  "file": "ai-ledger-2026-10-30.mp3",
+  "title": "Fri 30 Oct: Anthropic's IPO and AI economics",
+  "summary": "Anthropic's IPO filing leads, with Mistral's model release, AI costs at banks and agentic payments.",
+  "bytes": 8934458,
+  "seconds": 558,
+  "pubDate": "Fri, 30 Oct 2026 03:26:36 +0000"
+ },
+ {
+  "date": "2026-10-28",
+  "file": "ai-ledger-2026-10-28.mp3",
+  "title": "Wed 28 Oct: Banks lend $63B for Anthropic chips",
+  "summary": "Broadcom has reportedly closed a $63B vehicle to finance Anthropic's chips, with Citi among the lenders, and Anthropic's S-1 shows the scale of its compute bills. Also in the brief: Meta's raise nears $100B, and Cloudflare and LiteLLM leaks show AI infrastructure risk.",
+  "bytes": 6462208,
+  "seconds": 403,
+  "pubDate": "Wed, 28 Oct 2026 04:30:00 +0530"
+ },
+ {
+  "date": "2026-10-26",
+  "file": "ai-ledger-2026-10-26.mp3",
+  "title": "Mon 26 Oct: Wall Street asks where AI pays",
+  "summary": "Apollo's chief economist says AI has delivered zero payoff outside Big Tech, as Meta's credit spread hits a record. Also: Washington turns on AI's chief executives, and China's AI compute is set to double in 2027.",
+  "bytes": 7173271,
+  "seconds": 448,
+  "pubDate": "Mon, 26 Oct 2026 04:30:00 +0530"
+ },
+ {
+  "date": "2026-10-25",
+  "file": "ai-ledger-2026-10-25.mp3",
+  "title": "Sun 25 Oct: Neocloud credit tests Nvidia's backstop",
+  "summary": "Neocloud credit stress puts Nvidia's 171.5 billion dollars of backing to the test. Plus Moonshot's Kimi K3.1 Pro near the frontier, and OpenAI winning Replit with a deep discount.",
+  "bytes": 9172728,
+  "seconds": 573,
+  "pubDate": "Sun, 25 Oct 2026 04:30:00 +0530"
+ },
+ {
+  "date": "2026-10-24",
+  "file": "ai-ledger-2026-10-24.mp3",
+  "title": "Sat 24 Oct: Citi draws a line on AI agents",
+  "summary": "Citi's know-your-agent line, OpenAI raising at 1.25 trillion dollars, token prices halving while GPU rents climb, and your read-later list.",
+  "bytes": 8921952,
+  "seconds": 557,
+  "pubDate": "Sat, 24 Oct 2026 04:30:00 +0530"
+ }
+]

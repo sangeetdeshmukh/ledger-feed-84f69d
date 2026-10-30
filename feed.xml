@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The AI Ledger</title>
+    <link>https://sangeetdeshmukh.github.io/ledger-feed-84f69d/</link>
+    <atom:link href="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily AI intelligence, read by Maya and Adam. Private feed.</description>
+    <language>en-in</language>
+    <lastBuildDate>Fri, 30 Oct 2026 03:26:36 +0000</lastBuildDate>
+    <itunes:author>The AI Ledger</itunes:author>
+    <itunes:image href="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/cover.jpg"/>
+    <image><url>https://sangeetdeshmukh.github.io/ledger-feed-84f69d/cover.jpg</url><title>The AI Ledger</title><link>https://sangeetdeshmukh.github.io/ledger-feed-84f69d/</link></image>
+    <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Fri 30 Oct: Anthropic&#x27;s IPO and AI economics</title>
+      <description>Anthropic&#x27;s IPO filing leads, with Mistral&#x27;s model release, AI costs at banks and agentic payments.</description>
+      <itunes:summary>Anthropic&#x27;s IPO filing leads, with Mistral&#x27;s model release, AI costs at banks and agentic payments.</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 03:26:36 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-10-30</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-10-30.mp3" length="8934458" type="audio/mpeg"/>
+      <itunes:duration>558</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wed 28 Oct: Banks lend $63B for Anthropic chips</title>
+      <description>Broadcom has reportedly closed a $63B vehicle to finance Anthropic&#x27;s chips, with Citi among the lenders, and Anthropic&#x27;s S-1 shows the scale of its compute bills. Also in the brief: Meta&#x27;s raise nears $100B, and Cloudflare and LiteLLM leaks show AI infrastructure risk.</description>
+      <itunes:summary>Broadcom has reportedly closed a $63B vehicle to finance Anthropic&#x27;s chips, with Citi among the lenders, and Anthropic&#x27;s S-1 shows the scale of its compute bills. Also in the brief: Meta&#x27;s raise nears $100B, and Cloudflare and LiteLLM leaks show AI infrastructure risk.</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 04:30:00 +0530</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-10-28</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-10-28.mp3" length="6462208" type="audio/mpeg"/>
+      <itunes:duration>403</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mon 26 Oct: Wall Street asks where AI pays</title>
+      <description>Apollo&#x27;s chief economist says AI has delivered zero payoff outside Big Tech, as Meta&#x27;s credit spread hits a record. Also: Washington turns on AI&#x27;s chief executives, and China&#x27;s AI compute is set to double in 2027.</description>
+      <itunes:summary>Apollo&#x27;s chief economist says AI has delivered zero payoff outside Big Tech, as Meta&#x27;s credit spread hits a record. Also: Washington turns on AI&#x27;s chief executives, and China&#x27;s AI compute is set to double in 2027.</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 04:30:00 +0530</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-10-26</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-10-26.mp3" length="7173271" type="audio/mpeg"/>
+      <itunes:duration>448</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sun 25 Oct: Neocloud credit tests Nvidia&#x27;s backstop</title>
+      <description>Neocloud credit stress puts Nvidia&#x27;s 171.5 billion dollars of backing to the test. Plus Moonshot&#x27;s Kimi K3.1 Pro near the frontier, and OpenAI winning Replit with a deep discount.</description>
+      <itunes:summary>Neocloud credit stress puts Nvidia&#x27;s 171.5 billion dollars of backing to the test. Plus Moonshot&#x27;s Kimi K3.1 Pro near the frontier, and OpenAI winning Replit with a deep discount.</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 04:30:00 +0530</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-10-25</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-10-25.mp3" length="9172728" type="audio/mpeg"/>
+      <itunes:duration>573</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sat 24 Oct: Citi draws a line on AI agents</title>
+      <description>Citi&#x27;s know-your-agent line, OpenAI raising at 1.25 trillion dollars, token prices halving while GPU rents climb, and your read-later list.</description>
+      <itunes:summary>Citi&#x27;s know-your-agent line, OpenAI raising at 1.25 trillion dollars, token prices halving while GPU rents climb, and your read-later list.</itunes:summary>
+      <pubDate>Sat, 24 Oct 2026 04:30:00 +0530</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-10-24</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-10-24.mp3" length="8921952" type="audio/mpeg"/>
+      <itunes:duration>557</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
