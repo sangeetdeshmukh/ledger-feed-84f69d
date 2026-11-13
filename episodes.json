@@ -1,0 +1,128 @@
+[
+ {
+  "date": "2026-11-14",
+  "file": "ai-ledger-2026-11-14.mp3",
+  "title": "Sat 14 Nov: AI tops risk survey",
+  "summary": "The Federal Reserve\u2019s market contacts flag AI risks, OpenAI describes its card-backed wallet, and BCG benchmarks bank controls.",
+  "bytes": 9050651,
+  "seconds": 565,
+  "pubDate": "Fri, 13 Nov 2026 21:46:36 +0000"
+ },
+ {
+  "date": "2026-11-13",
+  "file": "ai-ledger-2026-11-13.mp3",
+  "title": "Fri 13 Nov: Nvidia leadership transition",
+  "summary": "Nvidia begins a CEO transition as Nebius revises its capacity timing. An enterprise survey examines AI returns and governance.",
+  "bytes": 9020140,
+  "seconds": 563,
+  "pubDate": "Thu, 12 Nov 2026 21:48:08 +0000"
+ },
+ {
+  "date": "2026-11-12",
+  "file": "ai-ledger-2026-11-12.mp3",
+  "title": "Thu 12 Nov: AI labs target work",
+  "summary": "Google, Anthropic and OpenAI expand AI work and customer tools. CoreWeave reports results as researchers examine AI-assisted security.",
+  "bytes": 10027003,
+  "seconds": 626,
+  "pubDate": "Wed, 11 Nov 2026 21:55:15 +0000"
+ },
+ {
+  "date": "2026-11-11",
+  "file": "ai-ledger-2026-11-11.mp3",
+  "title": "Wed 11 Nov: Anthropic's IPO terms",
+  "summary": "Anthropic's proposed IPO terms, Fireworks' security disclosure and new research on AI in banking.",
+  "bytes": 9110419,
+  "seconds": 569,
+  "pubDate": "Tue, 10 Nov 2026 21:48:08 +0000"
+ },
+ {
+  "date": "2026-11-10",
+  "file": "ai-ledger-2026-11-10.mp3",
+  "title": "Tue 10 Nov: Anthropic's new models",
+  "summary": "Anthropic's Fable and Mythos 5.2, more selective AI infrastructure lending, and Google's new TPU systems.",
+  "bytes": 9425142,
+  "seconds": 588,
+  "pubDate": "Mon, 09 Nov 2026 21:47:53 +0000"
+ },
+ {
+  "date": "2026-11-09",
+  "file": "ai-ledger-2026-11-09.mp3",
+  "title": "Mon 9 Nov: Anthropic's power deal",
+  "summary": "Anthropic's reported power-equipment deal, UK banks' restrictions on AI agents and security threats facing financial firms.",
+  "bytes": 9778378,
+  "seconds": 611,
+  "pubDate": "Sun, 08 Nov 2026 21:55:19 +0000"
+ },
+ {
+  "date": "2026-11-08",
+  "file": "ai-ledger-2026-11-08.mp3",
+  "title": "Sun 8 Nov: Inside China's AI campus",
+  "summary": "A look inside a Chinese AI data-center campus, an escaped security agent and a test of political framing in an open-weight model.",
+  "bytes": 9571428,
+  "seconds": 598,
+  "pubDate": "Sat, 07 Nov 2026 21:54:12 +0000"
+ },
+ {
+  "date": "2026-11-07",
+  "file": "ai-ledger-2026-11-07.mp3",
+  "title": "Sat 7 Nov: AI research accelerates",
+  "summary": "An independent assessment of AI-assisted research at Anthropic, OpenAI's cybersecurity model and the reliability of AI shopping agents.",
+  "bytes": 9716042,
+  "seconds": 607,
+  "pubDate": "Fri, 06 Nov 2026 21:56:22 +0000"
+ },
+ {
+  "date": "2026-11-06",
+  "file": "ai-ledger-2026-11-06.mp3",
+  "title": "Fri 6 Nov: Bank AI examinations",
+  "summary": "The OCC outlines how examiners assess bank AI use. Anthropic discloses new financials and compute commitments, while fal raises capital and coding-agent deals accelerate.",
+  "bytes": 9698905,
+  "seconds": 606,
+  "pubDate": "Thu, 05 Nov 2026 22:01:20 +0000"
+ },
+ {
+  "date": "2026-10-30",
+  "file": "ai-ledger-2026-10-30.mp3",
+  "title": "Fri 30 Oct: Anthropic's IPO and AI economics",
+  "summary": "Anthropic's IPO filing leads, with Mistral's model release, AI costs at banks and agentic payments.",
+  "bytes": 8934458,
+  "seconds": 558,
+  "pubDate": "Fri, 30 Oct 2026 03:26:36 +0000"
+ },
+ {
+  "date": "2026-10-28",
+  "file": "ai-ledger-2026-10-28.mp3",
+  "title": "Wed 28 Oct: Banks lend $63B for Anthropic chips",
+  "summary": "Broadcom has reportedly closed a $63B vehicle to finance Anthropic's chips, with Citi among the lenders, and Anthropic's S-1 shows the scale of its compute bills. Also in the brief: Meta's raise nears $100B, and Cloudflare and LiteLLM leaks show AI infrastructure risk.",
+  "bytes": 6462208,
+  "seconds": 403,
+  "pubDate": "Wed, 28 Oct 2026 04:30:00 +0530"
+ },
+ {
+  "date": "2026-10-26",
+  "file": "ai-ledger-2026-10-26.mp3",
+  "title": "Mon 26 Oct: Wall Street asks where AI pays",
+  "summary": "Apollo's chief economist says AI has delivered zero payoff outside Big Tech, as Meta's credit spread hits a record. Also: Washington turns on AI's chief executives, and China's AI compute is set to double in 2027.",
+  "bytes": 7173271,
+  "seconds": 448,
+  "pubDate": "Mon, 26 Oct 2026 04:30:00 +0530"
+ },
+ {
+  "date": "2026-10-25",
+  "file": "ai-ledger-2026-10-25.mp3",
+  "title": "Sun 25 Oct: Neocloud credit tests Nvidia's backstop",
+  "summary": "Neocloud credit stress puts Nvidia's 171.5 billion dollars of backing to the test. Plus Moonshot's Kimi K3.1 Pro near the frontier, and OpenAI winning Replit with a deep discount.",
+  "bytes": 9172728,
+  "seconds": 573,
+  "pubDate": "Sun, 25 Oct 2026 04:30:00 +0530"
+ },
+ {
+  "date": "2026-10-24",
+  "file": "ai-ledger-2026-10-24.mp3",
+  "title": "Sat 24 Oct: Citi draws a line on AI agents",
+  "summary": "Citi's know-your-agent line, OpenAI raising at 1.25 trillion dollars, token prices halving while GPU rents climb, and your read-later list.",
+  "bytes": 8921952,
+  "seconds": 557,
+  "pubDate": "Sat, 24 Oct 2026 04:30:00 +0530"
+ }
+]
