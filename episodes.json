@@ -1,0 +1,128 @@
+[
+ {
+  "date": "2026-11-28",
+  "file": "ai-ledger-2026-11-28.mp3",
+  "title": "28 Nov: US Compute Curbs Reach Southeast Asia",
+  "summary": "Nvidia halts server shipments to four Southeast Asian countries as US cloud-access rules bite. Also: Trainium3's inference margin beats Nvidia's GB300, and 42 attorneys general fight the sale of Character.AI chats.",
+  "bytes": 8612561,
+  "seconds": 538,
+  "pubDate": "Fri, 27 Nov 2026 23:21:45 +0000"
+ },
+ {
+  "date": "2026-11-27",
+  "file": "ai-ledger-2026-11-27.mp3",
+  "title": "Fri 27 Nov: FCC clears SpaceX orbital data centres",
+  "summary": "The FCC licensed SpaceX to put up to a million AI data-centre satellites in orbit. Also: the Nasdaq 100 fell into bear-market territory, and Amazon and Meta negotiate over the Muse shopping agent.",
+  "bytes": 7728154,
+  "seconds": 482,
+  "pubDate": "Thu, 26 Nov 2026 23:20:25 +0000"
+ },
+ {
+  "date": "2026-11-26",
+  "file": "ai-ledger-2026-11-26.mp3",
+  "title": "26 Nov: AI Writes Landmark Math Proofs",
+  "summary": "Anthropic and OpenAI post AI-written proofs of landmark complexity results. Also: the FCA says firms own their agents' risks, and Amazon reports agents exploiting a zero-day in eleven minutes.",
+  "bytes": 7197330,
+  "seconds": 449,
+  "pubDate": "Wed, 25 Nov 2026 23:20:14 +0000"
+ },
+ {
+  "date": "2026-11-25",
+  "file": "ai-ledger-2026-11-25.mp3",
+  "title": "Wed 25 Nov: Lab Insiders Say Models Too Risky",
+  "summary": "Axios reports staff at Anthropic and OpenAI doubt their best unreleased models can be shipped safely. Also: Sierra raises $1.75B at a $30B valuation, and MiniMax admits its scanners opened customers' URLs.",
+  "bytes": 7461895,
+  "seconds": 466,
+  "pubDate": "Tue, 24 Nov 2026 23:20:38 +0000"
+ },
+ {
+  "date": "2026-11-24",
+  "file": "ai-ledger-2026-11-24.mp3",
+  "title": "24 Nov: Washington helps Huang return to Nvidia",
+  "summary": "Nvidia reinstates Jensen Huang as CEO with Washington's blessing. Also CrowdStrike's $43.9B deal for Zscaler and US banks fencing in their AI agents.",
+  "bytes": 7644586,
+  "seconds": 477,
+  "pubDate": "Mon, 23 Nov 2026 23:21:31 +0000"
+ },
+ {
+  "date": "2026-11-23",
+  "file": "ai-ledger-2026-11-23.mp3",
+  "title": "Mon 23 Nov: Claude-assisted Riemann proof machine-certified",
+  "summary": "Lean and Mathlib certify the Claude-assisted Riemann hypothesis proof. Also: three AI inference providers breached, and server makers repricing signed AI deals by up to forty-five percent.",
+  "bytes": 7859452,
+  "seconds": 491,
+  "pubDate": "Sun, 22 Nov 2026 23:20:22 +0000"
+ },
+ {
+  "date": "2026-11-22",
+  "file": "ai-ledger-2026-11-22.mp3",
+  "title": "Sun 22 Nov: Claude-assisted Riemann proof claimed",
+  "summary": "A Claude-assisted proof of the Riemann hypothesis is claimed and under expert review. Also: Anthropic falls 11% on its second trading day, and Congress discloses 879,000 AI chip approvals for Chinese firms.",
+  "bytes": 8342167,
+  "seconds": 521,
+  "pubDate": "Sat, 21 Nov 2026 23:21:19 +0000"
+ },
+ {
+  "date": "2026-11-21",
+  "file": "ai-ledger-2026-11-21.mp3",
+  "title": "Sat 21 Nov: Anthropic's raise grows, then slides",
+  "summary": "Anthropic's IPO grows to about ninety-three billion dollars before shares slide on day two. Also: OpenAI gates router access to its models, and Apple, Google and Replit push agents that run whole computers.",
+  "bytes": 7024728,
+  "seconds": 438,
+  "pubDate": "Sat, 21 Nov 2026 07:38:41 +0000"
+ },
+ {
+  "date": "2026-11-20",
+  "file": "ai-ledger-2026-11-20.mp3",
+  "title": "Fri 20 Nov: Anthropic trading and agent safeguards",
+  "summary": "Anthropic closes its first trading day above the offering price, Google introduces Gemini 4 Neon, and new findings sharpen attention on agent safeguards and banking rules.",
+  "bytes": 8743869,
+  "seconds": 546,
+  "pubDate": "Thu, 19 Nov 2026 21:51:01 +0000"
+ },
+ {
+  "date": "2026-11-19",
+  "file": "ai-ledger-2026-11-19.mp3",
+  "title": "Thu 19 Nov: Anthropic IPO and bank agents",
+  "summary": "Anthropic reportedly prices its IPO at $83; JPMorgan and Hyundai Card test agent-led FX; Meta faces questions about Muse and the ECB flags AI valuation risks.",
+  "bytes": 9604865,
+  "seconds": 600,
+  "pubDate": "Wed, 18 Nov 2026 21:55:38 +0000"
+ },
+ {
+  "date": "2026-11-18",
+  "file": "ai-ledger-2026-11-18.mp3",
+  "title": "Wed 18 Nov: New models, Nvidia earnings and agent controls",
+  "summary": "OpenAI releases new models, Nvidia reports results, California sues OpenAI, and BNY tests agent-assisted Treasury trade negotiation with human approval.",
+  "bytes": 8366452,
+  "seconds": 522,
+  "pubDate": "Tue, 17 Nov 2026 21:54:36 +0000"
+ },
+ {
+  "date": "2026-11-16",
+  "file": "ai-ledger-2026-11-16.mp3",
+  "title": "Mon 16 Nov: Nvidia succession in focus",
+  "summary": "A reported possible return for Jensen Huang puts Nvidia succession in focus. Vietnam\u2019s bank AI rules take effect, and partners agree to protect AI supply chains.",
+  "bytes": 8962103,
+  "seconds": 560,
+  "pubDate": "Sun, 15 Nov 2026 21:49:04 +0000"
+ },
+ {
+  "date": "2026-11-15",
+  "file": "ai-ledger-2026-11-15.mp3",
+  "title": "Sun 15 Nov: Nvidia and AI funding",
+  "summary": "Nvidia\u2019s role in venture funding comes into focus after its leadership change. Onyx and Glean connect agent governance, while a closer look at an agent-detection test reveals important limits.",
+  "bytes": 8421622,
+  "seconds": 526,
+  "pubDate": "Sat, 14 Nov 2026 21:52:53 +0000"
+ },
+ {
+  "date": "2026-11-14",
+  "file": "ai-ledger-2026-11-14.mp3",
+  "title": "Sat 14 Nov: AI tops risk survey",
+  "summary": "The Federal Reserve\u2019s market contacts flag AI risks, OpenAI describes its card-backed wallet, and BCG benchmarks bank controls.",
+  "bytes": 9050651,
+  "seconds": 565,
+  "pubDate": "Fri, 13 Nov 2026 21:46:36 +0000"
+ }
+]

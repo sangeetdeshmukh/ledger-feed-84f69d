@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The AI Ledger</title>
+    <link>https://sangeetdeshmukh.github.io/ledger-feed-84f69d/</link>
+    <atom:link href="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily AI intelligence, read by Maya and Adam. Private feed.</description>
+    <language>en-in</language>
+    <lastBuildDate>Fri, 27 Nov 2026 23:21:45 +0000</lastBuildDate>
+    <itunes:author>The AI Ledger</itunes:author>
+    <itunes:image href="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/cover.jpg"/>
+    <image><url>https://sangeetdeshmukh.github.io/ledger-feed-84f69d/cover.jpg</url><title>The AI Ledger</title><link>https://sangeetdeshmukh.github.io/ledger-feed-84f69d/</link></image>
+    <itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>28 Nov: US Compute Curbs Reach Southeast Asia</title>
+      <description>Nvidia halts server shipments to four Southeast Asian countries as US cloud-access rules bite. Also: Trainium3&#x27;s inference margin beats Nvidia&#x27;s GB300, and 42 attorneys general fight the sale of Character.AI chats.</description>
+      <itunes:summary>Nvidia halts server shipments to four Southeast Asian countries as US cloud-access rules bite. Also: Trainium3&#x27;s inference margin beats Nvidia&#x27;s GB300, and 42 attorneys general fight the sale of Character.AI chats.</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 23:21:45 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-28</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-28.mp3" length="8612561" type="audio/mpeg"/>
+      <itunes:duration>538</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fri 27 Nov: FCC clears SpaceX orbital data centres</title>
+      <description>The FCC licensed SpaceX to put up to a million AI data-centre satellites in orbit. Also: the Nasdaq 100 fell into bear-market territory, and Amazon and Meta negotiate over the Muse shopping agent.</description>
+      <itunes:summary>The FCC licensed SpaceX to put up to a million AI data-centre satellites in orbit. Also: the Nasdaq 100 fell into bear-market territory, and Amazon and Meta negotiate over the Muse shopping agent.</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 23:20:25 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-27</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-27.mp3" length="7728154" type="audio/mpeg"/>
+      <itunes:duration>482</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>26 Nov: AI Writes Landmark Math Proofs</title>
+      <description>Anthropic and OpenAI post AI-written proofs of landmark complexity results. Also: the FCA says firms own their agents&#x27; risks, and Amazon reports agents exploiting a zero-day in eleven minutes.</description>
+      <itunes:summary>Anthropic and OpenAI post AI-written proofs of landmark complexity results. Also: the FCA says firms own their agents&#x27; risks, and Amazon reports agents exploiting a zero-day in eleven minutes.</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 23:20:14 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-26</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-26.mp3" length="7197330" type="audio/mpeg"/>
+      <itunes:duration>449</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wed 25 Nov: Lab Insiders Say Models Too Risky</title>
+      <description>Axios reports staff at Anthropic and OpenAI doubt their best unreleased models can be shipped safely. Also: Sierra raises $1.75B at a $30B valuation, and MiniMax admits its scanners opened customers&#x27; URLs.</description>
+      <itunes:summary>Axios reports staff at Anthropic and OpenAI doubt their best unreleased models can be shipped safely. Also: Sierra raises $1.75B at a $30B valuation, and MiniMax admits its scanners opened customers&#x27; URLs.</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 23:20:38 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-25</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-25.mp3" length="7461895" type="audio/mpeg"/>
+      <itunes:duration>466</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>24 Nov: Washington helps Huang return to Nvidia</title>
+      <description>Nvidia reinstates Jensen Huang as CEO with Washington&#x27;s blessing. Also CrowdStrike&#x27;s $43.9B deal for Zscaler and US banks fencing in their AI agents.</description>
+      <itunes:summary>Nvidia reinstates Jensen Huang as CEO with Washington&#x27;s blessing. Also CrowdStrike&#x27;s $43.9B deal for Zscaler and US banks fencing in their AI agents.</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 23:21:31 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-24</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-24.mp3" length="7644586" type="audio/mpeg"/>
+      <itunes:duration>477</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mon 23 Nov: Claude-assisted Riemann proof machine-certified</title>
+      <description>Lean and Mathlib certify the Claude-assisted Riemann hypothesis proof. Also: three AI inference providers breached, and server makers repricing signed AI deals by up to forty-five percent.</description>
+      <itunes:summary>Lean and Mathlib certify the Claude-assisted Riemann hypothesis proof. Also: three AI inference providers breached, and server makers repricing signed AI deals by up to forty-five percent.</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 23:20:22 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-23</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-23.mp3" length="7859452" type="audio/mpeg"/>
+      <itunes:duration>491</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sun 22 Nov: Claude-assisted Riemann proof claimed</title>
+      <description>A Claude-assisted proof of the Riemann hypothesis is claimed and under expert review. Also: Anthropic falls 11% on its second trading day, and Congress discloses 879,000 AI chip approvals for Chinese firms.</description>
+      <itunes:summary>A Claude-assisted proof of the Riemann hypothesis is claimed and under expert review. Also: Anthropic falls 11% on its second trading day, and Congress discloses 879,000 AI chip approvals for Chinese firms.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 23:21:19 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-22</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-22.mp3" length="8342167" type="audio/mpeg"/>
+      <itunes:duration>521</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sat 21 Nov: Anthropic&#x27;s raise grows, then slides</title>
+      <description>Anthropic&#x27;s IPO grows to about ninety-three billion dollars before shares slide on day two. Also: OpenAI gates router access to its models, and Apple, Google and Replit push agents that run whole computers.</description>
+      <itunes:summary>Anthropic&#x27;s IPO grows to about ninety-three billion dollars before shares slide on day two. Also: OpenAI gates router access to its models, and Apple, Google and Replit push agents that run whole computers.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 07:38:41 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-21</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-21.mp3" length="7024728" type="audio/mpeg"/>
+      <itunes:duration>438</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fri 20 Nov: Anthropic trading and agent safeguards</title>
+      <description>Anthropic closes its first trading day above the offering price, Google introduces Gemini 4 Neon, and new findings sharpen attention on agent safeguards and banking rules.</description>
+      <itunes:summary>Anthropic closes its first trading day above the offering price, Google introduces Gemini 4 Neon, and new findings sharpen attention on agent safeguards and banking rules.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 21:51:01 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-20</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-20.mp3" length="8743869" type="audio/mpeg"/>
+      <itunes:duration>546</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Thu 19 Nov: Anthropic IPO and bank agents</title>
+      <description>Anthropic reportedly prices its IPO at $83; JPMorgan and Hyundai Card test agent-led FX; Meta faces questions about Muse and the ECB flags AI valuation risks.</description>
+      <itunes:summary>Anthropic reportedly prices its IPO at $83; JPMorgan and Hyundai Card test agent-led FX; Meta faces questions about Muse and the ECB flags AI valuation risks.</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 21:55:38 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-19</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-19.mp3" length="9604865" type="audio/mpeg"/>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wed 18 Nov: New models, Nvidia earnings and agent controls</title>
+      <description>OpenAI releases new models, Nvidia reports results, California sues OpenAI, and BNY tests agent-assisted Treasury trade negotiation with human approval.</description>
+      <itunes:summary>OpenAI releases new models, Nvidia reports results, California sues OpenAI, and BNY tests agent-assisted Treasury trade negotiation with human approval.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 21:54:36 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-18</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-18.mp3" length="8366452" type="audio/mpeg"/>
+      <itunes:duration>522</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mon 16 Nov: Nvidia succession in focus</title>
+      <description>A reported possible return for Jensen Huang puts Nvidia succession in focus. Vietnam’s bank AI rules take effect, and partners agree to protect AI supply chains.</description>
+      <itunes:summary>A reported possible return for Jensen Huang puts Nvidia succession in focus. Vietnam’s bank AI rules take effect, and partners agree to protect AI supply chains.</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 21:49:04 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-16</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-16.mp3" length="8962103" type="audio/mpeg"/>
+      <itunes:duration>560</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sun 15 Nov: Nvidia and AI funding</title>
+      <description>Nvidia’s role in venture funding comes into focus after its leadership change. Onyx and Glean connect agent governance, while a closer look at an agent-detection test reveals important limits.</description>
+      <itunes:summary>Nvidia’s role in venture funding comes into focus after its leadership change. Onyx and Glean connect agent governance, while a closer look at an agent-detection test reveals important limits.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 21:52:53 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-15</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-15.mp3" length="8421622" type="audio/mpeg"/>
+      <itunes:duration>526</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sat 14 Nov: AI tops risk survey</title>
+      <description>The Federal Reserve’s market contacts flag AI risks, OpenAI describes its card-backed wallet, and BCG benchmarks bank controls.</description>
+      <itunes:summary>The Federal Reserve’s market contacts flag AI risks, OpenAI describes its card-backed wallet, and BCG benchmarks bank controls.</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 21:46:36 +0000</pubDate>
+      <guid isPermaLink="false">ai-ledger-2026-11-14</guid>
+      <enclosure url="https://sangeetdeshmukh.github.io/ledger-feed-84f69d/episodes/ai-ledger-2026-11-14.mp3" length="9050651" type="audio/mpeg"/>
+      <itunes:duration>565</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
